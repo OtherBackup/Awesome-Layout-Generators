@@ -32,7 +32,8 @@ This is a niche area, which is increasingly receiving attention from the communi
 - PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout (**CVPR** 2023)  [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf) [[Code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
 - Towards Flexible Multi-modal Document Models (**CVPR** 2023) [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Inoue_Towards_Flexible_Multi-Modal_Document_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/CyberAgentAILab/flex-dm)
 - Machine Learning Model to Evaluate the Appropriateness of Layout for Automatic Generation of Graphic Design Works (**IMCOM** 2023) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10035646)
-
+- TextPainter: Multimodal Text Image Generation with Visual-harmony and Text-comprehension for Poster Design (ACM MM2023) [[Paper](https://arxiv.org/pdf/2308.04733)]
+- AutoPoster: A Highly Automatic and Content-aware Design System for Advertising Poster Generation (ACM MM2023) [[Paper](https://arxiv.org/pdf/2308.01095)]
 
 ## 2022
 - BLT: Bidirectional Layout Transformer for Controllable Layout Generation (**ECCV** 2022) [[Paper]](https://arxiv.org/abs/2112.05112) [[Code]](https://github.com/google-research/google-research/tree/master/layout-blt)
